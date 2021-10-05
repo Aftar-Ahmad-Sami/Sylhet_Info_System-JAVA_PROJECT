@@ -135,5 +135,34 @@ class Tourism{
 		System.out.println("Coordinates:");
 		System.out.println("24.9570° N, 91.9344° E");
 		System.out.println("");
+		
+        System.out.println(" Volagonj Sada Pattor ");
+        System.out.println("Discription: Bholaganj is situated in Sylhet Division, Bangladesh. Original name (with diacritics) of the place is Bholāganj. It is 33 km away to the north from Sylhet city. Bholaganj is the largest stone quarry in Bangladesh and filled with hills, rivers, waterfalls and quarries. Companiganj Upazila is bounded by Meghalaya (state of India) on the north which is 27 km away from Sylhet city on the Salutikor-Bholaganj Road and just six kelometres from there is Bholaganj which is covered with the Cherapunjee hills. River Dholai just entered at Bangladesh through this place. The Meghalayan clouds, waterfalls from hills and the sandy shores of the Dholai, ceaseless streams and transparent water of the river are the main attractions that draw tourists to this place. Tourist can get the most beautiful view during its rainy season.");
+        System.out.println("Place: Bholaganj Bazar,Companigonj,Sylhet");
+        System.out.println("Way to Reach the Destination:It takes about an hour and a half to reach Bholaganj from Sylhet as the condition of the road is very poor. So using private vehicle is not recommended. There is no direct bus service available from Sylhet city to Bholaganj. But there are taxi services available from Sylhet city to Tuker Bazar. Tourists can use boats but they need to get permission from BDR post.");
+        System.out.println("Best Time To Travel: March to September ");
+        System.out.println("Cordinate: 25.16562566699541, 91.74457781193651");
+
+        System.out.println(" Madhabpur Lake ");
+        System.out.println("Discription: One of the sight seeing points in the sreemangal area. A must drive from Moulvibazar to Madhapur lake while you pas the tea gardens of Sreemangal and the famous lawachora forest. Good for hiking.Madhbpur Lake is damp of National tea company.It was made for tea garden watering .It is called Lotus lake coz its full with lotus.");
+        System.out.println("Place: Kamalganj Upazila, Moulvibazar District, Bangladesh");
+        System.out.println("Way to Reach the Destination:Madhabpur is 83.6 kilometer away from the Sylhet city. It takes 2.5 hours to reach there a by bus or a private car.Private car will be the better transport for this");
+        System.out.println("Best Time To Travel: Winter season is most preferable");
+        System.out.println("Cordinate: 24.281200, 91.818100");
+
+        System.out.println(" Jainta Rajbari ");
+        System.out.println("Discription: The Jainta Rajbari and Kingdom extended from the east of the Shillong Plateau of present-day Meghalaya in north-east India, into the plains to the south, and north to the Barak River valley in Assam, India. It was annexed by the British East India Company in 1835.The capital, Jaintiapur, now ruined, was located on the plains at the foot of the Jaintia Hills; it appears there may have been a summer capital at Nartiang in the Jaintia Hills, but little remains of it now apart from a Durga temple and a nearby site with many megalithic structures. Much of what is today the Sylhet region of Bangladesh was at one time under the jurisdiction of the Jaintia king.");
+        System.out.println("Place: Jaintiapur,Sylhet");
+        System.out.println("Way to Reach the Destination:Jaintia Rajbari is 42 kilometer away from the Sylhet city. Approximately it takes 1.5 hours to reach there a private car(recomended).You can also travel through local or private bus.");
+        System.out.println("Best Time To Travel: Any time but winter is most preferable");
+        System.out.println("Cordinate: 25.151670467881527, 92.13534111976261");
+
+        System.out.println(" Hazrat Shahporan Shrine ");
+        System.out.println("Discription: The shrine of Shah Paran is a shrine or spiritual establishment in the city of Sylhet. It is the tomb of Shah Paran, one of the companions of Shah Jalal, a preacher of Islam who came to Bangladesh from the Middle East in 1303 AD. It is located in Khadim Nagar area east of Sylhet city.About 6 km from Shah Jalal (RA) Dargah. In the distance is the shrine of Shah Paran (RA). Like the shrine of Shah Jalal (RA), a large number of visitors come here. Every day thousands of people from different parts of the country come to visit the holy city of Sylhet. The tomb is on the east side of the mosque. Many have written, including the historian Muminul Haque; The Muslim faith and culture have been propagated and spread by Shah Paran in Sylhet Division and in different parts of India");
+        System.out.println("Place: Hazrat Shah Poran (Rh.) Mazar Shorif,Shah Paran,Sylhet");
+        System.out.println("Way to Reach the Destination: The shrine of Shah Paran (Hazrat Shah Poran (Rh.) Mazar Shorif) is almost 8 kilometer away from the Sylhet city. It is very easy to journey by any kind of local transport.You can also travel by private car or bus.But local transport.");
+        System.out.println("Best Time To Travel: Any time");
+        System.out.println("Cordinate: 24.934817489331483, 91.93550586312415");
+    
 	}
 }
