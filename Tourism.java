@@ -135,5 +135,13 @@ class Tourism{
 		System.out.println("Coordinates:");
 		System.out.println("24.9570° N, 91.9344° E");
 		System.out.println("");
+		
+		        System.out.println(" Volagonj Sada Pattor ");
+        System.out.println("Discription:Bholaganj is situated in Sylhet Division, Bangladesh. Original name (with diacritics) of the place is Bholāganj. It is 33 km away to the north from Sylhet city. Bholaganj is the largest stone quarry in Bangladesh and filled with hills, rivers, waterfalls and quarries. Companiganj Upazila is bounded by Meghalaya (state of India) on the north which is 27 km away from Sylhet city on the Salutikor-Bholaganj Road and just six kelometres from there is Bholaganj which is covered with the Cherapunjee hills. River Dholai just entered at Bangladesh through this place. The Meghalayan clouds, waterfalls from hills and the sandy shores of the Dholai, ceaseless streams and transparent water of the river are the main attractions that draw tourists to this place. Tourist can get the most beautiful view during its rainy season.");
+        System.out.println("Place: Bholaganj Bazar,Companigonj,Sylhet");
+        System.out.println("Way to Reach the Destination:It takes about an hour and a half to reach Bholaganj from Sylhet as the condition of the road is very poor. So using private vehicle is not recommended. There is no direct bus service available from Sylhet city to Bholaganj. But there are taxi services available from Sylhet city to Tuker Bazar. Tourists can use boats but they need to get permission from BDR post.");
+        System.out.println("Best Time To Travel: March to September ");
+        System.out.println("Cordinate:24.902464058107388, 91.86593847988624");
+    
 	}
 }
