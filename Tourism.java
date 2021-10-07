@@ -167,5 +167,28 @@ class Tourism{
         System.out.println("Best Time To Travel: March to September ");
         System.out.println("Cordinate:24.902464058107388, 91.86593847988624");
     
+		System.out.println("Lakkatura Tea Garden ");
+        System.out.println("Discription: SYLHET, IN THE NORTHEAST OF BANGLADESH, is renowned for the beauty of its tea gardens, and among the lot, Lakkatura is considered the most scenic. It is also one of the largest tea gardens in the country, covering a total of 3,200 acres. This estate was officially established in 1875, and it now produces an astounding 550 tons of tea each year. ");
+        System.out.println("Place: Lakkatura Sylhet ");
+        System.out.println("."); //Galib edited
+
+        System.out.println("Best Time To Travel: 365 days you can visit ");
+        System.out.println("Coordinate:24.92792404416728, 91.87672552016147");
+    //    System.out.println("-----------------");
+
+            System.out.println("Madhobkunda waterfall");
+        System.out.println("Discription:During a hunting expedition in the Patharia hills, Raja Govardhan of Gour (reigned 1250–1260) wished to establish a resting place for the benefit of travellers. He came across a monk by the name of Madhabeshwar meditating under a waterfall. In respect of the monk, the waterfall was called Madhabkunda waterfall.");
+        System.out.println("Place: Kulaura  Upozilla");
+        System.out.println("Best Time To Travel: March To Octobor");
+     //   System.out.println("Explore:The beauty of nature");
+        System.out.println("Cordiante:24.63818305626906, 92.2241630635822"); //Galib edited
+
+
+         System.out.println("Shimul Bagan");
+        System.out.println("Discription:Shimul Bagan is a garden in Manigaon village in Tahirpur Upazila of Sunamganj district. In 2002, the former chairman of the Union Parishad at that time planted Shimul trees on an average of 2,400 acres of land along the Jadukata river");
+        System.out.println("Place: Shunamhonj");
+        System.out.println("Best Time To Travel:Octobor-February");
+     //   System.out.println("Explore:The beauty of nature");
+        System.out.println("Cordiante:25.177926834716708, 91.24737822958228"); //Galib edited
 	}
 }
