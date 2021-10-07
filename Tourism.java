@@ -205,6 +205,11 @@ class Tourism{
         System.out.println("Cordinate: 25.151670467881527, 92.13534111976261");
 		
 		
-		
+		System.out.println(" Hazrat Shahporan Shrine ");
+        System.out.println("Discription: The shrine of Shah Paran is a shrine or spiritual establishment in the city of Sylhet. It is the tomb of Shah Paran, one of the companions of Shah Jalal, a preacher of Islam who came to Bangladesh from the Middle East in 1303 AD. It is located in Khadim Nagar area east of Sylhet city.About 6 km from Shah Jalal (RA) Dargah. In the distance is the shrine of Shah Paran (RA). Like the shrine of Shah Jalal (RA), a large number of visitors come here. Every day thousands of people from different parts of the country come to visit the holy city of Sylhet. The tomb is on the east side of the mosque. Many have written, including the historian Muminul Haque; The Muslim faith and culture have been propagated and spread by Shah Paran in Sylhet Division and in different parts of India");
+        System.out.println("Place: Hazrat Shah Poran (Rh.) Mazar Shorif,Shah Paran,Sylhet");
+        System.out.println("Way to Reach the Destination: The shrine of Shah Paran (Hazrat Shah Poran (Rh.) Mazar Shorif) is almost 8 kilometer away from the Sylhet city. It is very easy to journey by any kind of local transport.You can also travel by private car or bus.But local transport.");
+        System.out.println("Best Time To Travel: Any time");
+        System.out.println("Cordinate: 24.934817489331483, 91.93550586312415");
 	}
 }
