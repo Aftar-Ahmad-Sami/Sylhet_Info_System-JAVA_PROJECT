@@ -211,5 +211,37 @@ class Tourism{
         System.out.println("Way to Reach the Destination: The shrine of Shah Paran (Hazrat Shah Poran (Rh.) Mazar Shorif) is almost 8 kilometer away from the Sylhet city. It is very easy to journey by any kind of local transport.You can also travel by private car or bus.But local transport.");
         System.out.println("Best Time To Travel: Any time");
         System.out.println("Cordinate: 24.934817489331483, 91.93550586312415");
+		
+		        System.out.println(" Niladri Lake ");
+        System.out.println("Discription: Niladri Lake is located in Tekerghat village in Uttar Sreepur union of Tahirpur upazila of Sunamganj district. The real name of this lake is Shahid Siraj Lake. But in the travel community, this lake is better known as Niladri. However, the locals know it as Tekerghat Stone Quarry. The beautiful blue water of the lake, the combination of small and big hills and mountains has made Niladri Lake extremely beautiful. Many tourists refer to Niladri Lake as the Kashmir of Bengal because of its unique features.");
+        System.out.println("Place:Tahir pur,Bishwamvar pur,sunamganj,Gobindagonj,Sylhet");
+        System.out.println("Way to Reach the Destination: From Sylhet Kumargau Bus Stand by  Bus or CNG,will have to come to sunamganj.Rental motorcycles are available to reach tekerghat in the new bridge area of sunamganj city. The reserved motorcycle's costs range from BDT 300 to 400.");
+        System.out.println("Best Time To Travel:The monsoon period is  the best time.");
+        System.out.println("Cordinate: 25°12'04.2 N, 91°10'25.3 E");
+        
+
+        System.out.println(" Shankar Pasha masjid ");
+        System.out.println("Discription: Shankarapasha Shahi Mosque is one of the oldest artifacts of architectural art. The mosque is one of the architectural features of the Sultanate period. It is located at Shankarapasha village between Uchail and Raziura village of Habiganj Sadar upazila. The mosque, which is located on an area of about 5 acres in Uchail village of Raziura union of Habiganj district, witnesses the time.It is a one-storey building. The building has the same length and width which is 21ft and 6in. The width of the verandah is slightly above 3ft wide. It has four domes. It has one large dome on the main building and three smaller domes on the verandah. There are 15 doors and windows, almost equal in size. The thickness of the walls are all roughly 5ft apart from the western wall which is about 10ft. It has six decorative pillars in the four corners of the main hall and two corners of the verandah. There is a large pond behind the mosque.");
+        System.out.println("Place:Shaistaganj,Sherpur,Goala bazar,Roshidpur,Sylhet");
+        System.out.println("Way to Reach the Destination:You have to travel from sylhet to Shayestaganj by bus or train Shayestaganj.From Shaistaganj, you can reserve a private car or CNG-powered autorickshaw and go directly to Shankarpasha Shahi Mosque.It will cost a maximum of TK 200 to TK 250 to reserve a CNG autorickshaw.");
+        System.out.println("Best Time To Travel: Any time.");
+        System.out.println("Cordinate: 24°18’8.36″ N, 91°21’31.83″ E");
+        
+	
+        System.out.println(" Tanguar Haor ");
+        System.out.println("Discription: Tanguar Haor is the second largest sweetwater swamp area in the Sunamganj district, the area is about 100 sq km. It is the most beautiful largest sweetwater swamp in the northeast reign of Bangladesh is located in Dharmapasha of Sunamganj district and Tahirpur Upazila.  This Haor is decorated with outstretched water, Water Forests, blue sky, hills, and green environment. In the foothills of Jaintia hills, Khasia of Meghalaya in India, Tanguar Haor is full with a huge habitat including fish, birds and other aquatic animals. The total area of ​​Tanguar Haor is 6912 acres. However, during the monsoon, this Haor area goes up to 20,000 acres for increasing the water..");
+        System.out.println("Place: Tahir pur,Bishwamvar pur,sunamganj,Gobindagonj,Sylhet");
+        System.out.println("Way to Reach the Destination: From Sylhet Kumargau Bus Stand by  Bus or CNG,will have to come to sunamganj.Then, the best way to reach there is to take bus from Sunamganj and reach Dharmapasha Upazila. From Dharmapasha Upazila, take CNG or Rickshaw to reach tengua haor.");
+        System.out.println("Best Time To Travel: The monsoon period is the best time.");
+        System.out.println("Cordinate: 25°07'35.1 N, 91°05'50.5 E");
+        
+        
+        System.out.println(" Panthumai Jhorna ");
+        System.out.println("Discription:  Bangladesh – On the border of India, Meghalaya is in the lap of an impossible village – Panthumai. It is a village of West Jaflong Union of Gowainghat upazila of Sylhet district. This village is probably one of the most beautiful villages in Bangladesh, on the banks of the Meghalaya hill and on the Piyain river.A huge waterfall near this village whose local name is Jharkhand of Fatachari which is known to us as Panthumai / Panthamai Waterfall (Panthumai Waterfall). Some people also called the Barahil waterfalls. Although the fountain falls in India, standing on the banks of the Piyan river is very close. BSF camp next to The boundary between the two countries is divided here. .Looking away from the mountainous hillside, it looks as if someone is spreading white sarees. If you get close to the sound of the fountain, the tourists will break. You must stay away from the mountains and the water in this mithali. But to enjoy the beauty of the waterfall you will not have to cross the border. Standing on the border of Bangladesh, you can enjoy all over the world, Panthamai Rupa-Lavanya. The body will be able to soak the water coming down through the waterfall.");
+        System.out.println("Place:Tamabila 0 point,Jaintapur,Sarighat,Horipur,Shah Paran,Sylhet");
+        System.out.println("Way to Reach the Destination:  From the CNG station at Amber Khana in Sylhet, you have to take a local CNG at 140 to 180 takas per person to reach Hadarpar.You will be traveling to Panthumai, Bichaanakandi and Lokkhonchora by renting a boat. ");
+        System.out.println("Best Time To Travel: During rainy season.");
+        System.out.println("Cordinate:25°10'42.4 N, 91°57'20.4 E");
+		
 	}
 }
