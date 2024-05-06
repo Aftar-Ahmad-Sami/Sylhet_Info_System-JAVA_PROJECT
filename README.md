@@ -1,7 +1,7 @@
 # Sylhet_Info_System-JAVA_PROJECT
 2nd Year JAVA Project
 
-##Description
+## Description
 
 Sylhet Tourism App
 
@@ -15,7 +15,7 @@ Features
 User-Friendly Interface: Navigate the app effortlessly with its intuitive and visually appealing Java Swing interface.
 5. Data Persistence: Utilize MySQL database integration for storing and retrieving tourist information, ensuring efficient data management and retrieval.
 
-##Contributor:
+## Contributor:
 
 **Aftar Ahmad Sami**
 
